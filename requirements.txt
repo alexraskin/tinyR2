@@ -1,0 +1,4 @@
+tinify
+boto3
+tqdm
+python-dotenv

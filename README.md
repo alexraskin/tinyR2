@@ -27,6 +27,10 @@ This will install the dependencies and run the script.
 
 If you want to change the amount of threads, update the `config.py` file with the desired amount.
 
+## Contributing
+
+This is a personal project, but feel free to fork it and make it your own.
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)

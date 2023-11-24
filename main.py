@@ -155,7 +155,7 @@ if __name__ == "__main__":
     print("Starting TinyR2 🤖")
 
     client: TinyR2 = TinyR2(
-          key=config.tinify_token,
+          tinify_key=config.tinify_token,
           prefix=config.prefix,
           bucket_name=config.bucket_name,
           r2_endpoint_url=config.r2_endpoint_url,
